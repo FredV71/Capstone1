@@ -1,0 +1,7 @@
+Introduction: Coffee Place in Milan
+
+In one of the world's Coffee Capitals, the Coffee Place World is very crowded.
+A small entrepreneur in Milan has told me to explore his chances
+
+Data:
+We will need to connect to FourSquare API to get addresses, and lat/long of each Coffee Place. Then put them on a Folium Map
